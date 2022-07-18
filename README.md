@@ -1,10 +1,10 @@
 # 👉[Resume](https://mohamad-golden.github.io/Mohamad-Golden/)👈
-👋 Hi, I’m _Mohamad reza Talaei_. I'm a python/django developer aged 21.
+👋 Hi, I’m _Mohamad reza Talaei_. I'm a junior python/django developer aged 21.
 I'm willing to cooperate with a team part-time or full-time.
 
 -----
 
-## skills
+## Skills
 * Python
 * Django
 * Django ORM
