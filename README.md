@@ -11,6 +11,8 @@ I'm willing to cooperate with a team part-time or full-time.
 * DRF
 * Postgesql
 * Sqlite
+* Redis
+* Docker
 * Unit testing
 * Git
 * HTML
