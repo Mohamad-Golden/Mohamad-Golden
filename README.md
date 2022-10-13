@@ -9,6 +9,8 @@ I'm willing to cooperate with a team part-time or full-time.
 * Django
 * Django ORM
 * DRF
+* Flask
+* FastApi
 * Postgesql
 * Sqlite
 * Redis
